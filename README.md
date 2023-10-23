@@ -24,6 +24,12 @@ You can check out this project live at [https://syed-mohd-askari.github.io/Famil
 
 <hr/>
 
+## Screenshots of the Website
+
+Original Website (https://sidcupfamilygolf.com/) | Replica (https://syed-mohd-askari.github.io/Family-Golf-Club-Website/)
+:---------------------------------------------:|:------:
+![Original](https://github.com/syed-mohd-askari/Family-Golf-Club-Website/raw/main/assets/official%20img.PNG) | ![Replica](https://github.com/syed-mohd-askari/Family-Golf-Club-Website/raw/main/assets/replica%20img.PNG)
+
 
 <hr/>
 
