@@ -6,7 +6,16 @@ You can check out this project live at [https://syed-mohd-askari.github.io/Famil
 
 **Note:** The website may not load properly on the first attempt; if this occurs, please refresh the page, and it should load completely.
 
+## Features
+
+- Changed Scrollbar Theme to look exactly like website
+- Added cursor movements and animations
+- Added Scrolling Animations using gsap
+- Added Text Effects and Text Strokes
+- Added Hover animations to match original website animations
+
 <hr/>
+
 
 ## Screenshots of the Website
 
