@@ -1,5 +1,5 @@
 # Family Golf Club Website Replica
 
-This is a personal project where I attempted to recreate a replica of an original website, <a href="https://sidcupfamilygolf.com/" target="_blank">Sidcup Family Golf Club</a>.
+This is a personal project where I attempted to recreate a replica of an original website, [Sidcup Family Golf Club](https://sidcupfamilygolf.com/).
 
-You can check out this project live at <a href="https://syed-mohd-askari.github.io/Family-Golf-Club-Website/" target="_blank">https://syed-mohd-askari.github.io/Family-Golf-Club-Website/</a>.
+You can check out this project live at [https://syed-mohd-askari.github.io/Family-Golf-Club-Website/](https://syed-mohd-askari.github.io/Family-Golf-Club-Website/).
